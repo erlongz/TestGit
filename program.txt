@@ -3,3 +3,10 @@ main()
    
     print("hello world")
 }
+
+method()
+{
+
+  print("I love you")
+
+}
